@@ -1,2 +1,1 @@
-# Spring-Boot-Project
-Spring Boot Project 
+Spring Boot Project - Blog Website
