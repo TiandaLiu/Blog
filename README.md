@@ -1,1 +1,2 @@
-Spring Boot Project - Blog Website
+version 1
+
